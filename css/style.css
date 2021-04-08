@@ -64,7 +64,7 @@ header {
 }
 /*ロゴ画像*/
 header #logo img {
-	width: 10%;		/*画像の幅*/
+	width: 7%;		/*画像の幅*/
 }
 /*トップページのロゴ画像への追加指定*/
 .home header #logo img {
@@ -72,7 +72,7 @@ header #logo img {
 	border-radius: 50%;
 	border: 5px solid pink;
 	box-shadow: 0 0 5px gray;
-	width: 15%;	/*画像の幅*/
+	width: 7%;	/*画像の幅*/
 	left: 3%;	/*ロゴやメニューが入っているブロックに対して、左からの配置場所の指定。*/
 	top: 15px;	/*ロゴやメニューが入っているブロックに対して、上からの配置場所の指定。*/
 }
